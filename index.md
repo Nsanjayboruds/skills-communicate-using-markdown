@@ -1,5 +1,3 @@
-# <h1>hello</h1>
-
 # Welcome to My Page
 
 ## About Me
@@ -19,3 +17,6 @@ Hi, I'm Nishant Sanjay Borude, a Computer Science student passionate about codin
 ## Contact
 - [GitHub Profile](https://github.com/Nsanjayboruds)
 - [Portfolio](https://portfolio-nishant-omega.vercel.app)
+
+## My Photo
+![Nishant Borude](https://avatars.githubusercontent.com/u/180739822?v=4)
