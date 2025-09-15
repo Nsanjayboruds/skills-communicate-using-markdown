@@ -14,6 +14,7 @@ Hi, I'm Nishant Sanjay Borude, a Computer Science student passionate about codin
 2. AI Chatbot
 3. Smart Agriculture Support System
 
+
 ## My Photo
 ![Nishant Borude](https://placekitten.com/200/200)
 
@@ -25,4 +26,13 @@ function add(a, b) {
   return a + b;
 }
 
-console.log(add(5, 7)); // Output: 12
+console.log(add(5, 7));
+``` 
+
+## Contact
+- [GitHub Profile](https://github.com/Nsanjayboruds)
+- [Portfolio](https://portfolio-nishant-omega.vercel.app)
+
+## My Photo
+![Nishant Borude](https://avatars.githubusercontent.com/u/180739822?v=4)
+
